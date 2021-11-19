@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Rest Assured Testing Framework" verbose="1">
+    <test name="Rest Asssured testing frameowrk to test API">
+        <classes>
+            <class name="FirstTest" />
+        </classes>
+    </test>
+</suite>
